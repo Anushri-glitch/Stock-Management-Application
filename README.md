@@ -136,21 +136,21 @@ public interface IStockDao extends JpaRepository<Stock,Integer> {
 ## :six: Project Summary
 ### :o: Generated API's
 
-:white_check_mark: ADD STOCK : localhost:8080/stock
+:white_check_mark: ADD STOCK : https://localhost:8080/stock
 
-:white_check_mark: GET STOCKS BASED ON STOCK TYPE : localhost:8080/api/v1/todo-app/findall
+:white_check_mark: GET STOCKS BASED ON STOCK TYPE : https://localhost:8080/api/v1/todo-app/findall
 
-:white_check_mark: GET STOCK ABOVE PRICE AND LOWER STOCK_BIRTH_DATE : localhost:8080/abovePrice/price/{stockPrice}/lowerDate/date/{stockDate}
+:white_check_mark: GET STOCK ABOVE PRICE AND LOWER STOCK_BIRTH_DATE : https://localhost:8080/abovePrice/price/{stockPrice}/lowerDate/date/{stockDate}
 
-:white_check_mark: GET ALL STOCKS ABOVE MARKET CAP : localhost:8080/cap/{capPercentage}
+:white_check_mark: GET ALL STOCKS ABOVE MARKET CAP : https://localhost:8080/cap/{capPercentage}
 
-:white_check_mark: UPDATE MARKET CAP BY STOCK ID : localhost:8080/cap/{capPercentage}/stockId/{stockId}
+:white_check_mark: UPDATE MARKET CAP BY STOCK ID : https://localhost:8080/cap/{capPercentage}/stockId/{stockId}
 
-:white_check_mark: UPDATE STOCK TYPE BY STOCK ID : localhost:8080/type/{stocktype}/stockId/{stockId}
+:white_check_mark: UPDATE STOCK TYPE BY STOCK ID : https://localhost:8080/type/{stocktype}/stockId/{stockId}
 
-:white_check_mark: UPDATE STOCK BY STOCK ID : localhost:8080/stock/{stockId}
+:white_check_mark: UPDATE STOCK BY STOCK ID : https://localhost:8080/stock/{stockId}
 
-:white_check_mark: DELETE STOCKS BASED ON OWNER COUNT : localhost:8080/ownerCount/{ownerCount}
+:white_check_mark: DELETE STOCKS BASED ON OWNER COUNT : https://localhost:8080/ownerCount/{ownerCount}
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
