@@ -157,7 +157,7 @@ public interface IStockDao extends JpaRepository<Stock,Integer> {
 ## :seven: Project Result
 ### :o: Stock Response
 
-![Screenshot (826)](https://github.com/Anushri-glitch/Stock-Management-Application/assets/47708011/83b56ed5-3484-4692-b3ca-c7cd457cdeba)
+![Screenshot (819)](https://github.com/Anushri-glitch/Stock-Management-Application/assets/47708011/5dd95669-fa0a-4485-bb38-88b0ad45e5f7)
 
 ![Screenshot (820)](https://github.com/Anushri-glitch/Stock-Management-Application/assets/47708011/37650d22-700a-41e1-ac03-004ebb504ba3)
 
@@ -171,7 +171,9 @@ public interface IStockDao extends JpaRepository<Stock,Integer> {
 
 ![Screenshot (825)](https://github.com/Anushri-glitch/Stock-Management-Application/assets/47708011/da6503a9-c113-4185-8992-5694c630adb3)
 
-![Screenshot (826)](https://github.com/Anushri-glitch/Stock-Management-Application/assets/47708011/aee81934-ae58-495b-b62c-79fd7a567205)
+![Screenshot (826)](https://github.com/Anushri-glitch/Stock-Management-Application/assets/47708011/83b56ed5-3484-4692-b3ca-c7cd457cdeba)
+
+
 
 
 
