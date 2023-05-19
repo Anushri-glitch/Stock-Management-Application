@@ -158,12 +158,19 @@ public interface IStockDao extends JpaRepository<Stock,Integer> {
 ### :o: Stock Response
 
 ![Screenshot (826)](https://github.com/Anushri-glitch/Stock-Management-Application/assets/47708011/83b56ed5-3484-4692-b3ca-c7cd457cdeba)
+
 ![Screenshot (820)](https://github.com/Anushri-glitch/Stock-Management-Application/assets/47708011/37650d22-700a-41e1-ac03-004ebb504ba3)
+
 ![Screenshot (821)](https://github.com/Anushri-glitch/Stock-Management-Application/assets/47708011/3a7e7e71-64f9-4237-abea-ae46d460ade7)
+
 ![Screenshot (822)](https://github.com/Anushri-glitch/Stock-Management-Application/assets/47708011/13b2bebf-8b44-44c4-a11c-c7dd746e7887)
+
 ![Screenshot (823)](https://github.com/Anushri-glitch/Stock-Management-Application/assets/47708011/295d124f-1b77-4498-a268-53b27584e5df)
+
 ![Screenshot (824)](https://github.com/Anushri-glitch/Stock-Management-Application/assets/47708011/a8f156b8-c035-4f20-b0ae-96262d76c6ab)
+
 ![Screenshot (825)](https://github.com/Anushri-glitch/Stock-Management-Application/assets/47708011/da6503a9-c113-4185-8992-5694c630adb3)
+
 ![Screenshot (826)](https://github.com/Anushri-glitch/Stock-Management-Application/assets/47708011/aee81934-ae58-495b-b62c-79fd7a567205)
 
 
