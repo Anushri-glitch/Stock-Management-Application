@@ -20,10 +20,10 @@ public class Stock {
 
     private String stockName;
     private Double stockPrice;
-    private LocalDateTime stockBirthDate;
     private Integer stockOwnerCount;
 
     @Enumerated(EnumType.STRING)
-    private StockType StockType;
+    private StockType stockType;
     private Double stockMarketCap;
+    private LocalDateTime stockBirthDate;
 }
